@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="item_option_new" relationship="" sys_domain="global" table="question_choice" version="2" view="item">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>text</element>
+            <list_id display_value="question_choice" element="NULL" name="question_choice" parent="item_option_new" relationship="NULL" sys_domain="global" view="Default view">4882b1217171030092c0e10d8a5376a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-14 02:14:52</sys_created_on>
+            <sys_id>c882b1217171030092c0e10d8a5376a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-14 02:14:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>value</element>
+            <list_id display_value="question_choice" element="NULL" name="question_choice" parent="item_option_new" relationship="NULL" sys_domain="global" view="Default view">4882b1217171030092c0e10d8a5376a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-14 02:14:52</sys_created_on>
+            <sys_id>4c82b1217171030092c0e10d8a5376a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-14 02:14:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>question_choice</name>
+            <parent>item_option_new</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>beth.anglin</sys_created_by>
+            <sys_created_on>2018-02-19 22:00:58</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa7dc547db1013004acc5c00cf961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>question_choice</sys_name>
+            <sys_package display_value="ANUJob" source="x_183977_anujob">703191ebdba303004acc5c00cf96192b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ANUJob">703191ebdba303004acc5c00cf96192b</sys_scope>
+            <sys_update_name>sys_ui_list_question_choice_item_option_new_item</sys_update_name>
+            <sys_updated_by>beth.anglin</sys_updated_by>
+            <sys_updated_on>2018-02-19 22:00:58</sys_updated_on>
+            <sys_user display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</sys_user>
+            <view display_value="Item" name="item">75a3f5e57171030092c0e10d8a5376f5</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

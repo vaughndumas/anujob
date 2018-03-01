@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>All plant services related jobs</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="">Default</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="ANU Services">f4a41680db3303004acc5c00cf9619b4</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-26 22:21:02</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c1c4dd55db2013004acc5c00cf961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Plants</sys_name>
+        <sys_package display_value="ANUJob" source="x_183977_anujob">703191ebdba303004acc5c00cf96192b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ANUJob">703191ebdba303004acc5c00cf96192b</sys_scope>
+        <sys_update_name>sc_category_c1c4dd55db2013004acc5c00cf961996</sys_update_name>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-02-26 22:21:02</sys_updated_on>
+        <title>Plants</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=c1c4dd55db2013004acc5c00cf961996"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>homepage_image</file_name>
+        <image_height>64</image_height>
+        <image_width>64</image_width>
+        <size_bytes>2903</size_bytes>
+        <size_compressed>2926</size_compressed>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-26 22:21:10</sys_created_on>
+        <sys_id>f6351195db2013004acc5c00cf9619e3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-02-26 22:21:10</sys_updated_on>
+        <table_name>ZZ_YYsc_category</table_name>
+        <table_sys_id>c1c4dd55db2013004acc5c00cf961996</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="homepage_image" sys_id="f6351195db2013004acc5c00cf9619e3">f6351195db2013004acc5c00cf9619e3</sys_attachment>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-26 22:21:10</sys_created_on>
+        <sys_id>3a351195db2013004acc5c00cf9619e3</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AVcLqPSJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAEc0JJVAgICAh8CGSIAAAACXBIWXMAAAG7AAABuwE67OPiAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAACtRJREFUeNrtWwtwU2UWzn3fJE2TtGnapi0tjwILtDzL8qZWoTxEBEZKQUEFBBWm44MVHEFdBESWh6BuoQui8hBhkYdYqbuAw25lCyzyVlhkdGRg2Qcr67hrLZ79z39zb+5N0iZpwgIld+YMyX9zz3/O9///Od85t5gAwHQ7y23tfByAOABxAOIAxAG4IZOaTC4ic4hc8Ap+djV5AMjVJtlpWifwph/JZ/CT74mU42+aHADk6u+wm/YwjM/hvDYsrFkowpr5IuQ1Z/VA/ERkBz5zSwNALp7IWJvVdFq/0sX9OKh6SwI4ZzZI1VoJirtz/rviEOpAXbcMAOSyE3naLJsuq45IogkmjubgxEeBjvvLiUoJJt7NgcQbgPgadaLumxYAcmWzrGkZz9OzTA13ORmYM52Hv9bIIR33F3xmzkQeXDZGD8RVIktxrpsGAHJ15xjTZnK+r6mGtm3JwMp5AvznlDlix/0Fdax8VoC2GQYg6ohswrlvCADkYomM4DlTtf7MFvVkYddqEX76S/SO+wvq3PWaCEX5rH+c2I+2oE3XHQByWYg8zrGmL1UDSEqD8SM4OLJTirnT9cmRzRKML+JA4AxAnEXb0MaYA0CudCLzyBm/ok6Y5GBg1qM8XKiW/2+O+8uFfTLMKuEhyWo4Hv9AW9HmqAEgVx6RteR816oTtMpm4LUXBPjuuPmGOe4v3x0xw4rpArRyG4D4AW1HHyIGgFzFRKr0Z61vAQvvl4tw7ezN47i/XPvcDFvnitC3dUCcQF+KGwSAXBKRh4mcUB8kQQ7GkJx8cJt00zodVEjArKmQoKQHBzxrAOKE10dJ57fJSeQ5IpfUH9pJ7n16Mg9f/0G+tRwPAsRX22R46m4e7GYDEJe8PqPvNI3QGzk5ObB0URlcPdXi1nY8iHz7iRmWjOchJ5nxT6HKl4qKCqirqwO4eE+9Sq4ckaFrBxZeKBNiYtSIgRyVWOhCm9A2tLFeLlFjhto3ZFh1v6AHQflw/vx5oFcDAHz0pqjslEwmaoP/9ZmsGYGfo9WHNqEutLEhAK6Vy3BuntQ4ACq9AGRnGAE4uVuGV+cIlBC1z2Uh1cXA8cqGAyeulDq3ftW+IbyiYr4AU8fy0C2PBaedgfdWiCEByPZS5UodAFePmWHdEhGeeJiHft1ZcJDYNnsoHzsA/nvaTMkQxwU0N2Drr8WIAcD6wWYkNVSwoIoUgI/flqCZJ1DXgHZsbAD4M6G+7Vp5J2BMIHZ2gX1GZ2Akpab/ar8cNgCnqyS4q7cvdwstEyHxsQ4gtLLT79tXhr8DdlSIMKWU13RxKWZIuL81yH3T6feZg2KwA7LSGchMUybk3GZIWXMHZJ4uBdfqO+hYSlLoGKEHoHdXxXlG5sA5tzvV5TkwChheGf8mDLqtAjBqEKctiu3BtpBxrITq45sl0PHNU4ToAUiweIlS80TwVI+kE6BYBjej40MKuYgAQGGtPKTuHKLpcszqQsc9qeEFXBUAte2WvLS3pivlrTu1ec7Pl6IHgE5EtnrqtsHaJEmLe2nsMRzm6A9A0qJemq7UD4bQ3YDjq18WwwJAf95x5VVdnppRwHmsdHzKSL7hLFBdXQ1PPNKSNiuP7pLgxzP1A5AwoY02iWtVIbAJSm6dPU0JWOdIpfbkRJ4WTp9ukeD7k/UDIOYlG5znc2x0fHB/ZSf9+7gSbBfNFGDPeilo2sTMQxfGzGvb3vPHkSD1SKXjLbIYuLovRBosKioyrIpZNtEUonZ29ACkvHMnpO8dToEwebcdEpHaL5TfosF6Xbgz8Hxe+pMcAEDi9Dy6Uo6ZXbSVx3JbPfuYBvW6cJv36sLS9KsCgOmS9h+7uyHjaAkkL+tDA6A69ycbpdA8YNKkScoDWQnAWH1sCVtcNe9LsOV1nyFifrLmOMqj43hDifybBcpvuWQZOJfPWewTblouGgAQ2jiAEXxZYGBf1lCHHNquGMyILPAtEkHfbH35FwLUkZ1q9XJ9Lt0CrM1newdSGR7eIYVHhMrLy+lnuVcaZHw2WkExVUERc/3UcXxAXkUGFqzNjR0iFYCM4yU0EAntnNpzz00L1IWriFzAX9cPpMwVBeU3abuHQer2wWAemKU9d98QTruvB2fmVJ4+GzYTPHjwoDLIMVp093w6EuQ+6drqKdWiQnQayvUYP2TJe1yI86gLz2bC2FxlB+kMXkWcPl0lN9hrwONF536yoxYvnC8WUFvpMUpQ/i17iKccRT2KEVHh2tpa+FmuEoAs9+RoE2Ucvg/4bJv2kD8Vrk/GDVfOs9g+ie4CVZ+5KMOwWg0VMKpgAKTpMlGksUfVhfGDjnvr/spoa4Gayn40aNBAtKCHNpH7vWLtoYZy87dHzdrO+PthWYvO+qyBJIe1iyEBwOB75vfKPdwdGPjo9i5QAh3Vd3IMySJJmq76AMA48fkWmVaDIXnAbPV8Ipua3A4yT4xR2FSmwqaSnUYA3v6VCKXDOGjdnNGIyN4NSlzANpqWVci5xWhPSdPw5kEBwHiCb5E6Ec6uLsTiZ5W4gGBYvMEO4wnGA3oUni8ICsCxDyWYNp6Hnp1ZmtHwfkk3LjQAeH4wqqvO4Pa3TWoHUje3QjSsJjoBRuoBfQL6b1R2r/UFRnQAg5IaFK0lrSBhXK4BAKzcJpXwQXUtfMYXGPG9g9vb1GBJzrcMydZYI8oH5D6u9oIZQkBgRLm3Exc+E/zdO8ErKnTmt2+IJPB4aSwhQQmlueBa2V8rhnD7+5fMBfnBwdqzXvRRWRLULEOzIXlFXxDaOugY2qHXdfmg7OP8fvIKiRW44pqthAg5X/o5mAcpNH3u8AiLIVwZTE2PjOEhN0cxEnOuWg+InVyQ9rGyFZF/N9QwwZXZsEyEsgd56KEzElvtdKeRI+beOIDqSt8zXOMZ9cUIbH4g4ULeoAZBFWSsLZIW9lTiBDnCbLLCOz6cLkZfC6jpDdFV4wMGI6lrCh1/YETkxRASGAyOaqC0PdRWIzKRFEMqYUrdOshXpxAgqN1k515eHKNiCM9y+v4RvnRUlk/HHYlMWOWrHgCGZcC9/i5fbYFlNaNQ3n0bwmvJY4mu6nPM6abpSqsaptUpi8qE2LTEVP5OJzlVCvanOmqEZO2i8Ko3PQASYZ6qwXj2Mdfj+OMP8GHpQtECo0OiNtHCiuwCvplN6znUHTDHDgD3poE06KnVFgqmwnAN1gNgf6YzPfv61Ih/QhPJ6zfceXSb9/NA2q6hkDi1vVZfIDiYQqNuiq5b4isyWJuuNCYBMRiHDxcAffGCwWzGZJ72GyPRp+Z5xmJMpVgn/O2QHJuu8OsvCsYmBilZ7x3AwZf7Im9rY5rU67ISELFzW72lca/hVJ6hvrLvTIjUu8vF69MWx55fY5yubwdgw6TuTHTvBZCeo67lzwv17p7r9l4gWgDCKYYa814gDkBjALjyxWBKcze+GijYYKB9AXIEgt2PRLDZqc6Nn6PVhzbRvj+xMdh99OmfJBOEBGDC6KygHLspyIShXGgAiguVii/TkggdnakGyXO4wSHKkGUNvNcYSZEt4JatMdGVRex1EtvyiY3+99AX+leqPSIA4Jf5hQ==</data>
+        <length>3736</length>
+        <position>1</position>
+        <sys_attachment display_value="homepage_image" sys_id="f6351195db2013004acc5c00cf9619e3">f6351195db2013004acc5c00cf9619e3</sys_attachment>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-26 22:21:10</sys_created_on>
+        <sys_id>ba351195db2013004acc5c00cf9619e3</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>cHbYtCYh6EtIAGpqauDixYtQ2MtFvz/WugB29i9tEoK+oE+FhA5feEWCAzPFQABuYzHtvY2d36v/C2+HTjz4B8lNTDx+Ptrj/2coDkAcgDgAcQBudwD+ByUh+Iy14eEOAAAAAElFTkSuQmCCTytbWVcLAAA=</data>
+        <length>156</length>
+        <position>2</position>
+        <sys_attachment display_value="homepage_image" sys_id="f6351195db2013004acc5c00cf9619e3">f6351195db2013004acc5c00cf9619e3</sys_attachment>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-26 22:21:10</sys_created_on>
+        <sys_id>3e351195db2013004acc5c00cf9619e3</sys_id>
+    </sys_attachment_doc>
+</record_update>

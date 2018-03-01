@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="04. Growth chambers &amp; containers">4ae6dd55db2013004acc5c00cf961982</sc_cat_item>
+        <sc_catalog display_value="ANU Services">f4a41680db3303004acc5c00cf9619b4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-26 22:28:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>83f6d1d5db2013004acc5c00cf96191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ANU Services.04. Growth chambers &amp; containers</sys_name>
+        <sys_package display_value="ANUJob" source="x_183977_anujob">703191ebdba303004acc5c00cf96192b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ANUJob">703191ebdba303004acc5c00cf96192b</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_83f6d1d5db2013004acc5c00cf96191e</sys_update_name>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-02-26 22:28:50</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

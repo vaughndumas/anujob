@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-03-01 21:36:55">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-16 23:02:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e7755680db3303004acc5c00cf96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_anu_services</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ANUJob" source="x_183977_anujob">703191ebdba303004acc5c00cf96192b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ANUJob">703191ebdba303004acc5c00cf96192b</sys_scope>
+        <sys_update_name>sys_portal_page_e7755680db3303004acc5c00cf96196d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-16 23:02:26</sys_updated_on>
+        <title>catalog_anu_services</title>
+        <user/>
+        <view>catalog_anu_services</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>3</offset>
+                <page display_value="catalog_anu_services">e7755680db3303004acc5c00cf96196d</page>
+                <summary/>
+                <sys_created_by>beth.anglin</sys_created_by>
+                <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                <sys_id>1291f515db6013004acc5c00cf9619f2</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>beth.anglin</sys_updated_by>
+                <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1291f515db6013004acc5c00cf9619f2</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1291f515db6013004acc5c00cf9619f3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1291f515db6013004acc5c00cf9619f2</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1691f515db6013004acc5c00cf9619f5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1291f515db6013004acc5c00cf9619f2</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1a91f515db6013004acc5c00cf9619f4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;sysparm_parent=b62a2111db6013004acc5c00cf9619db&amp;amp;amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;amp;amp;sysparm_catalog_view=catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1291f515db6013004acc5c00cf9619f2</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1e91f515db6013004acc5c00cf9619f3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>f4a41680db3303004acc5c00cf9619b4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1291f515db6013004acc5c00cf9619f2</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9291f515db6013004acc5c00cf9619f2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>b62a2111db6013004acc5c00cf9619db</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1291f515db6013004acc5c00cf9619f2</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9291f515db6013004acc5c00cf9619f4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1291f515db6013004acc5c00cf9619f2</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9291f515db6013004acc5c00cf9619f6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>e7755680db3303004acc5c00cf96196d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1291f515db6013004acc5c00cf9619f2</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9691f515db6013004acc5c00cf9619f3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1291f515db6013004acc5c00cf9619f2</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9a91f515db6013004acc5c00cf9619f2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1291f515db6013004acc5c00cf9619f2</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9a91f515db6013004acc5c00cf9619f5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=b62a2111db6013004acc5c00cf9619db&amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;sysparm_catalog_view=catalog_ANU_Services'&amp;gt;School Equipment&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1291f515db6013004acc5c00cf9619f2</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9e91f515db6013004acc5c00cf9619f4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>4</offset>
+                <page display_value="catalog_anu_services">e7755680db3303004acc5c00cf96196d</page>
+                <summary/>
+                <sys_created_by>beth.anglin</sys_created_by>
+                <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                <sys_id>1691f515db6013004acc5c00cf9619df</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>beth.anglin</sys_updated_by>
+                <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1691f515db6013004acc5c00cf9619df</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1291f515db6013004acc5c00cf9619e1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>f4a41680db3303004acc5c00cf9619b4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1691f515db6013004acc5c00cf9619df</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1291f515db6013004acc5c00cf9619e3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1691f515db6013004acc5c00cf9619df</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1691f515db6013004acc5c00cf9619e0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1691f515db6013004acc5c00cf9619df</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1e91f515db6013004acc5c00cf9619e1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=2c6f65d1db6013004acc5c00cf9619eb&amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;sysparm_catalog_view=catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1691f515db6013004acc5c00cf9619df</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9291f515db6013004acc5c00cf9619e2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>Vehicles</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1691f515db6013004acc5c00cf9619df</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9691f515db6013004acc5c00cf9619df</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>2c6f65d1db6013004acc5c00cf9619eb</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1691f515db6013004acc5c00cf9619df</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9691f515db6013004acc5c00cf9619e1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1691f515db6013004acc5c00cf9619df</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9691f515db6013004acc5c00cf9619e3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>e7755680db3303004acc5c00cf96196d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1691f515db6013004acc5c00cf9619df</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9a91f515db6013004acc5c00cf9619e0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1691f515db6013004acc5c00cf9619df</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9a91f515db6013004acc5c00cf9619e2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1691f515db6013004acc5c00cf9619df</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9e91f515db6013004acc5c00cf9619df</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="catalog_anu_services">e7755680db3303004acc5c00cf96196d</page>
+                <summary/>
+                <sys_created_by>beth.anglin</sys_created_by>
+                <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                <sys_id>1a91f515db6013004acc5c00cf9619cc</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>beth.anglin</sys_updated_by>
+                <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1a91f515db6013004acc5c00cf9619cc</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1291f515db6013004acc5c00cf9619cf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_parent=5226de80db3303004acc5c00cf961992&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog_view=catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1a91f515db6013004acc5c00cf9619cc</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1691f515db6013004acc5c00cf9619ce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>f4a41680db3303004acc5c00cf9619b4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1a91f515db6013004acc5c00cf9619cc</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1a91f515db6013004acc5c00cf9619cd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1a91f515db6013004acc5c00cf9619cc</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1e91f515db6013004acc5c00cf9619cf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1a91f515db6013004acc5c00cf9619cc</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9291f515db6013004acc5c00cf9619cd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1a91f515db6013004acc5c00cf9619cc</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9291f515db6013004acc5c00cf9619d0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=5226de80db3303004acc5c00cf961992&amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;sysparm_catalog_view=catalog_ANU_Services'&amp;gt;Building&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1a91f515db6013004acc5c00cf9619cc</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9691f515db6013004acc5c00cf9619cf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1a91f515db6013004acc5c00cf9619cc</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9a91f515db6013004acc5c00cf9619cc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>5226de80db3303004acc5c00cf961992</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1a91f515db6013004acc5c00cf9619cc</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9a91f515db6013004acc5c00cf9619ce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1a91f515db6013004acc5c00cf9619cc</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9a91f515db6013004acc5c00cf9619d0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>e7755680db3303004acc5c00cf96196d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">1a91f515db6013004acc5c00cf9619cc</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9e91f515db6013004acc5c00cf9619cd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>2</offset>
+                <page display_value="catalog_anu_services">e7755680db3303004acc5c00cf96196d</page>
+                <summary/>
+                <sys_created_by>beth.anglin</sys_created_by>
+                <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                <sys_id>5691f515db6013004acc5c00cf9619ed</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>beth.anglin</sys_updated_by>
+                <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5691f515db6013004acc5c00cf9619ed</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5291f515db6013004acc5c00cf9619ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>f4a41680db3303004acc5c00cf9619b4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5691f515db6013004acc5c00cf9619ed</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5691f515db6013004acc5c00cf9619ee</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5691f515db6013004acc5c00cf9619ed</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5a91f515db6013004acc5c00cf9619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5691f515db6013004acc5c00cf9619ed</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5e91f515db6013004acc5c00cf9619ed</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>c1c4dd55db2013004acc5c00cf961996</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5691f515db6013004acc5c00cf9619ed</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5e91f515db6013004acc5c00cf9619ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;amp;amp;amp;amp;sysparm_parent=c1c4dd55db2013004acc5c00cf961996&amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog_view=catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5691f515db6013004acc5c00cf9619ed</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>d291f515db6013004acc5c00cf9619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5691f515db6013004acc5c00cf9619ed</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>d691f515db6013004acc5c00cf9619ed</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5691f515db6013004acc5c00cf9619ed</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>d691f515db6013004acc5c00cf9619ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5691f515db6013004acc5c00cf9619ed</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>d691f515db6013004acc5c00cf9619f1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>e7755680db3303004acc5c00cf96196d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5691f515db6013004acc5c00cf9619ed</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>da91f515db6013004acc5c00cf9619ee</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5691f515db6013004acc5c00cf9619ed</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>de91f515db6013004acc5c00cf9619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=c1c4dd55db2013004acc5c00cf961996&amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;sysparm_catalog_view=catalog_ANU_Services'&amp;gt;Plants&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>3</offset>
+                <page display_value="catalog_anu_services">e7755680db3303004acc5c00cf96196d</page>
+                <summary/>
+                <sys_created_by>beth.anglin</sys_created_by>
+                <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                <sys_id>5a91f515db6013004acc5c00cf9619da</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>beth.anglin</sys_updated_by>
+                <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5a91f515db6013004acc5c00cf9619da</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5291f515db6013004acc5c00cf9619dd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;amp;amp;sysparm_parent=b935259ddb2013004acc5c00cf9619f6&amp;amp;amp;amp;amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;amp;amp;amp;amp;sysparm_catalog_view=catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5a91f515db6013004acc5c00cf9619da</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5691f515db6013004acc5c00cf9619dc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>f4a41680db3303004acc5c00cf9619b4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5a91f515db6013004acc5c00cf9619da</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5691f515db6013004acc5c00cf9619de</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5a91f515db6013004acc5c00cf9619da</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5a91f515db6013004acc5c00cf9619db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5a91f515db6013004acc5c00cf9619da</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5e91f515db6013004acc5c00cf9619dd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=b935259ddb2013004acc5c00cf9619f6&amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;sysparm_catalog_view=catalog_ANU_Services'&amp;gt;Purchasing&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5a91f515db6013004acc5c00cf9619da</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>d291f515db6013004acc5c00cf9619db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5a91f515db6013004acc5c00cf9619da</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>d691f515db6013004acc5c00cf9619dd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5a91f515db6013004acc5c00cf9619da</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>da91f515db6013004acc5c00cf9619da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>b935259ddb2013004acc5c00cf9619f6</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5a91f515db6013004acc5c00cf9619da</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>da91f515db6013004acc5c00cf9619dc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5a91f515db6013004acc5c00cf9619da</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>da91f515db6013004acc5c00cf9619de</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>e7755680db3303004acc5c00cf96196d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">5a91f515db6013004acc5c00cf9619da</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>de91f515db6013004acc5c00cf9619db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="catalog_anu_services">e7755680db3303004acc5c00cf96196d</page>
+                <summary/>
+                <sys_created_by>beth.anglin</sys_created_by>
+                <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                <sys_id>9a91f515db6013004acc5c00cf9619e8</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>beth.anglin</sys_updated_by>
+                <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9a91f515db6013004acc5c00cf9619e8</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1291f515db6013004acc5c00cf9619ea</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9a91f515db6013004acc5c00cf9619e8</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1691f515db6013004acc5c00cf9619ec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=c76b150fdb1013004acc5c00cf961945&amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;sysparm_catalog_view=catalog_ANU_Services'&amp;gt;Equipment&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9a91f515db6013004acc5c00cf9619e8</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1a91f515db6013004acc5c00cf9619eb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9a91f515db6013004acc5c00cf9619e8</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1e91f515db6013004acc5c00cf9619e8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9a91f515db6013004acc5c00cf9619e8</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1e91f515db6013004acc5c00cf9619ea</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9a91f515db6013004acc5c00cf9619e8</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1e91f515db6013004acc5c00cf9619ec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>e7755680db3303004acc5c00cf96196d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9a91f515db6013004acc5c00cf9619e8</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9291f515db6013004acc5c00cf9619e9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>c76b150fdb1013004acc5c00cf961945</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9a91f515db6013004acc5c00cf9619e8</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9291f515db6013004acc5c00cf9619eb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_parent=c76b150fdb1013004acc5c00cf961945&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog_view=catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9a91f515db6013004acc5c00cf9619e8</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9691f515db6013004acc5c00cf9619ea</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>f4a41680db3303004acc5c00cf9619b4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9a91f515db6013004acc5c00cf9619e8</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9a91f515db6013004acc5c00cf9619e9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9a91f515db6013004acc5c00cf9619e8</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9e91f515db6013004acc5c00cf9619eb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>2</offset>
+                <page display_value="catalog_anu_services">e7755680db3303004acc5c00cf96196d</page>
+                <summary/>
+                <sys_created_by>beth.anglin</sys_created_by>
+                <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                <sys_id>9e91f515db6013004acc5c00cf9619d5</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>beth.anglin</sys_updated_by>
+                <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9e91f515db6013004acc5c00cf9619d5</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1291f515db6013004acc5c00cf9619d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9e91f515db6013004acc5c00cf9619d5</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1291f515db6013004acc5c00cf9619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9e91f515db6013004acc5c00cf9619d5</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1291f515db6013004acc5c00cf9619da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>e7755680db3303004acc5c00cf96196d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9e91f515db6013004acc5c00cf9619d5</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1691f515db6013004acc5c00cf9619d7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9e91f515db6013004acc5c00cf9619d5</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>1e91f515db6013004acc5c00cf9619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9e91f515db6013004acc5c00cf9619d5</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9291f515db6013004acc5c00cf9619d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=9f319515db2013004acc5c00cf961961&amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;sysparm_catalog_view=catalog_ANU_Services'&amp;gt;Fieldwork&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9e91f515db6013004acc5c00cf9619d5</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9691f515db6013004acc5c00cf9619d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>9f319515db2013004acc5c00cf961961</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9e91f515db6013004acc5c00cf9619d5</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9691f515db6013004acc5c00cf9619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_parent=9f319515db2013004acc5c00cf961961&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog_view=catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9e91f515db6013004acc5c00cf9619d5</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9a91f515db6013004acc5c00cf9619d7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>f4a41680db3303004acc5c00cf9619b4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9e91f515db6013004acc5c00cf9619d5</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9a91f515db6013004acc5c00cf9619d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">9e91f515db6013004acc5c00cf9619d5</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>9e91f515db6013004acc5c00cf9619d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="catalog_anu_services">e7755680db3303004acc5c00cf96196d</page>
+                <summary/>
+                <sys_created_by>beth.anglin</sys_created_by>
+                <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                <sys_id>d291f515db6013004acc5c00cf9619d1</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>beth.anglin</sys_updated_by>
+                <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">d291f515db6013004acc5c00cf9619d1</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5291f515db6013004acc5c00cf9619d4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">d291f515db6013004acc5c00cf9619d1</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5691f515db6013004acc5c00cf9619d1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">d291f515db6013004acc5c00cf9619d1</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5691f515db6013004acc5c00cf9619d3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">d291f515db6013004acc5c00cf9619d1</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5691f515db6013004acc5c00cf9619d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>e7755680db3303004acc5c00cf96196d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">d291f515db6013004acc5c00cf9619d1</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5a91f515db6013004acc5c00cf9619d2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">d291f515db6013004acc5c00cf9619d1</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>d291f515db6013004acc5c00cf9619d2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">d291f515db6013004acc5c00cf9619d1</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>d691f515db6013004acc5c00cf9619d4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=ca25c748db7303004acc5c00cf9619ce&amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;sysparm_catalog_view=catalog_ANU_Services'&amp;gt;Compliance and WHS&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">d291f515db6013004acc5c00cf9619d1</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>da91f515db6013004acc5c00cf9619d1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>ca25c748db7303004acc5c00cf9619ce</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">d291f515db6013004acc5c00cf9619d1</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>da91f515db6013004acc5c00cf9619d3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_parent=ca25c748db7303004acc5c00cf9619ce&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog_view=catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">d291f515db6013004acc5c00cf9619d1</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>de91f515db6013004acc5c00cf9619d2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>f4a41680db3303004acc5c00cf9619b4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">d291f515db6013004acc5c00cf9619d1</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>de91f515db6013004acc5c00cf9619d4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="catalog_anu_services">e7755680db3303004acc5c00cf96196d</page>
+                <summary/>
+                <sys_created_by>beth.anglin</sys_created_by>
+                <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                <sys_id>de91f515db6013004acc5c00cf9619e3</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>beth.anglin</sys_updated_by>
+                <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">de91f515db6013004acc5c00cf9619e3</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5291f515db6013004acc5c00cf9619e4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>fc3a2a0cdb3303004acc5c00cf96193d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">de91f515db6013004acc5c00cf9619e3</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5291f515db6013004acc5c00cf9619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">de91f515db6013004acc5c00cf9619e3</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5291f515db6013004acc5c00cf9619e8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>e7755680db3303004acc5c00cf96196d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">de91f515db6013004acc5c00cf9619e3</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5691f515db6013004acc5c00cf9619e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">de91f515db6013004acc5c00cf9619e3</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5691f515db6013004acc5c00cf9619e7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">de91f515db6013004acc5c00cf9619e3</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5a91f515db6013004acc5c00cf9619e4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">de91f515db6013004acc5c00cf9619e3</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>5e91f515db6013004acc5c00cf9619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=fc3a2a0cdb3303004acc5c00cf96193d&amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;sysparm_catalog_view=catalog_ANU_Services'&amp;gt;Cleaning and Waste&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">de91f515db6013004acc5c00cf9619e3</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>d691f515db6013004acc5c00cf9619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_parent=fc3a2a0cdb3303004acc5c00cf96193d&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog=f4a41680db3303004acc5c00cf9619b4&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;sysparm_catalog_view=catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">de91f515db6013004acc5c00cf9619e3</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>da91f515db6013004acc5c00cf9619e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>f4a41680db3303004acc5c00cf9619b4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">de91f515db6013004acc5c00cf9619e3</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>da91f515db6013004acc5c00cf9619e7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>catalog_ANU_Services</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2018-02-26 16:25:07">de91f515db6013004acc5c00cf9619e3</portal_section>
+                        <sys_created_by>beth.anglin</sys_created_by>
+                        <sys_created_on>2018-02-27 00:25:07</sys_created_on>
+                        <sys_id>de91f515db6013004acc5c00cf9619e4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>beth.anglin</sys_updated_by>
+                        <sys_updated_on>2018-02-27 00:25:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

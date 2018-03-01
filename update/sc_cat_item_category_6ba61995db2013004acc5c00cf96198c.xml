@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="01. Constant temperature rooms">6b455d55db2013004acc5c00cf96193a</sc_cat_item>
+        <sc_category display_value="Plants">c1c4dd55db2013004acc5c00cf961996</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-26 22:27:31</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6ba61995db2013004acc5c00cf96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Plants.Constant temperature rooms</sys_name>
+        <sys_package display_value="ANUJob" source="x_183977_anujob">703191ebdba303004acc5c00cf96192b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ANUJob">703191ebdba303004acc5c00cf96192b</sys_scope>
+        <sys_update_name>sc_cat_item_category_6ba61995db2013004acc5c00cf96198c</sys_update_name>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-02-26 22:27:31</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

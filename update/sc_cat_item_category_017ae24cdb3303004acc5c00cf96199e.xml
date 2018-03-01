@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="01. Cleaning">506aa24cdb3303004acc5c00cf961995</sc_cat_item>
+        <sc_category display_value="Cleaning and Waste">fc3a2a0cdb3303004acc5c00cf96193d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-01-17 00:34:01</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>017ae24cdb3303004acc5c00cf96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cleaning and Waste.01. Clearning</sys_name>
+        <sys_package display_value="ANUJob" source="x_183977_anujob">703191ebdba303004acc5c00cf96192b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ANUJob">703191ebdba303004acc5c00cf96192b</sys_scope>
+        <sys_update_name>sc_cat_item_category_017ae24cdb3303004acc5c00cf96199e</sys_update_name>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-01-17 00:34:01</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

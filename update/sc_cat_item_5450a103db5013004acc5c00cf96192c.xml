@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <category display_value="Equipment">c76b150fdb1013004acc5c00cf961945</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <entitlement_script/>
+        <group/>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>06. Space</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("./com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=5450a103db5013004acc5c00cf96192c&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <roles/>
+        <sc_catalogs>f4a41680db3303004acc5c00cf9619b4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description>Space and room requests</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-19 23:23:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5450a103db5013004acc5c00cf96192c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>06. Space</sys_name>
+        <sys_package display_value="ANUJob" source="x_183977_anujob">703191ebdba303004acc5c00cf96192b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ANUJob">703191ebdba303004acc5c00cf96192b</sys_scope>
+        <sys_update_name>sc_cat_item_5450a103db5013004acc5c00cf96192c</sys_update_name>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-02-19 23:24:10</sys_updated_on>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=5450a103db5013004acc5c00cf96192c"/>
+    <fx_price action="delete_multiple" query="id=5450a103db5013004acc5c00cf96192c"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>5450a103db5013004acc5c00cf96192c</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-19 23:23:26</sys_created_on>
+        <sys_id>6250a103db5013004acc5c00cf9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-02-19 23:23:26</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>5450a103db5013004acc5c00cf96192c</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-19 23:23:26</sys_created_on>
+        <sys_id>aa50a103db5013004acc5c00cf9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-02-19 23:23:26</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <image_height>32</image_height>
+        <image_width>32</image_width>
+        <size_bytes>644</size_bytes>
+        <size_compressed>627</size_compressed>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-19 23:23:39</sys_created_on>
+        <sys_id>b9606903db5013004acc5c00cf961946</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-02-19 23:23:39</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>5450a103db5013004acc5c00cf96192c</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="b9606903db5013004acc5c00cf961946">b9606903db5013004acc5c00cf961946</sys_attachment>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-19 23:23:39</sys_created_on>
+        <sys_id>f9606903db5013004acc5c00cf961946</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSCiDMwQIkbxZvqgdSLOmOvo4MDBv7uf8ksoIkkz2CfBkYqtQYGBpaGBh+AYUaXjAwlBowMLxKYGCwmsHAIF4wZ1egDVCCKcnb3YWBYVWvshGQx1ngEVkMtOk6CDM6acyuAAqyl3j6urI/YhIWl1YMZrrKycDAGOTp4hjicfztpb3eswNF2D7ET+oKYontqm9UYDmjVDbh0SU/JY7YkAuOGy5YdjdfWNoUHJ6pvl1oQ4CGX5DJ5Adqfq+SrEKZFmpO/cD3ttSjqtY5u6X8XPG0w8XnKs8d3/vlIjtr9r8d5yJijdzPJj771p4VsoUnTUv+StBJa6MUq8kHtii6V4aeSROa4Wqq/vzWSvGJdUnr3C/uq/rCP6Xn4Dxp5on3BKtu+J2RLkjud19RlXmqUD0gzPBNd7/dEqv9m1Lu6atPnPkpYutbPy6zXWyyojnlhrebLuqlORvcnPfA5/CuzitCz7/HPFh5/WL9sodrdAX2bM4M5VPRey9akbfxc3rTkWhF2ZhA8SnyMQt1VkT/nP8vL+RNbXPCd70J/fd2KInZtLCK9P6X3vFizxceNxbfcM1sLjeDyyd3/YgO62A6OM08ys5bRehw3ZI3u7/ve7T8/rTaT7pflX+9OKz7an7FgoXzN5wDBrhqiWtESUpiSapVclEqkGIwMjC00DUw0jW0DDEytjIytzI21jYwtDIw4JlzKhlFQ25+SmZaJW4NtQeL7gM1SII0BOenlZQnFqUylJeX62XmZRcnJxak6uUXpc9+ZyMFVMTg6ernss4poQkAGONqqoQCAAA=</data>
+        <length>824</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="b9606903db5013004acc5c00cf961946">b9606903db5013004acc5c00cf961946</sys_attachment>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-02-19 23:23:39</sys_created_on>
+        <sys_id>7d606903db5013004acc5c00cf961946</sys_id>
+    </sys_attachment_doc>
+</record_update>
